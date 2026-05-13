@@ -29,4 +29,4 @@ Project ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile serta mem
 Project ini masih sederhana dan dapat dikembangkan lebih lanjut pada fitur dan desain UI.
 
 ## Pembuat
-Mahasiswa Teknik Informatika
+411231029_AI IMAS MASTOAH
