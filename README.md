@@ -1,6 +1,6 @@
 # 🍜 Food Login App (FlavorDash UI)
 
-Aplikasi sederhana React Native (Expo) untuk login dan daftar akun dengan tema makanan pink putih seperti Gacoan style.
+Aplikasi sederhana React Native (Expo) untuk login dan daftar akun dengan tema makanan pink putih.
 
 ---
 
@@ -13,16 +13,6 @@ Aplikasi sederhana React Native (Expo) untuk login dan daftar akun dengan tema m
 - Icon makanan 🍜🍟🍔
 - Input email & password
 - Redirect antar halaman
-
----
-
-![Login](./screenshots/login.png)
-
-### Register Page
-
-![Register](./screenshots/register.png)
-
----
 
 ## Tech Stack
 
