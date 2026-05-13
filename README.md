@@ -16,10 +16,6 @@ Aplikasi sederhana React Native (Expo) untuk login dan daftar akun dengan tema m
 
 ---
 
-## Tampilan UI
-
-### Login Page
-
 ![Login](./screenshots/login.png)
 
 ### Register Page
