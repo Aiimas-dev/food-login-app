@@ -1,31 +1,32 @@
-# 🍜 Food Login App (FlavorDash UI)
+# FlavorDash - Aplikasi Login Food
 
-Aplikasi sederhana React Native (Expo) untuk login dan daftar akun dengan tema makanan pink putih.
+## Deskripsi
+FlavorDash adalah aplikasi mobile sederhana berbasis React Native (Expo) yang digunakan untuk simulasi login dan registrasi pengguna dengan tampilan UI bertema makanan.
 
----
+## Tujuan
+Project ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile serta memahami dasar pembuatan aplikasi mobile menggunakan React Native.
 
-## ✨ Features
+## Fitur
+- Login pengguna
+- Registrasi akun
+- Input email dan password
+- Navigasi antar halaman
+- UI sederhana bertema makanan
 
-- Login page UI modern
-- Register akun (email & password)
-- Navigation menggunakan Expo Router
-- UI tema pink & white aesthetic
-- Icon makanan 🍜🍟🍔
-- Input email & password
-- Redirect antar halaman
-
-## Tech Stack
-
+## Teknologi
 - React Native
+- Expo
 - Expo Router
-- JavaScript
-- AsyncStorage
-
----
 
 ## Cara Menjalankan
+1. Install dependencies:
+   npm install
 
-```bash
-npm install
-npx expo start
-```
+2. Jalankan aplikasi:
+   npx expo start
+
+## Catatan
+Project ini masih sederhana dan dapat dikembangkan lebih lanjut pada fitur dan desain UI.
+
+## Pembuat
+Mahasiswa Teknik Informatika
